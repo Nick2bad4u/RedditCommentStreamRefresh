@@ -8,8 +8,11 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit-stream.com
 // @version      1.1
 // @grant        none
-// @downloadURL https://raw.githubusercontent.com/Nick2bad4u/RedditCommentStreamRefresh/main/Auto-Refresh-Reddit-Stream.js
-// @updateURL https://raw.githubusercontent.com/Nick2bad4u/RedditCommentStreamRefresh/main/Auto-Refresh-Reddit-Stream.js
+// @homepage     https://github.com/Nick2bad4u/RedditCommentStreamRefresh
+// @homepageURL  https://github.com/Nick2bad4u/RedditCommentStreamRefresh
+// @supportURL   https://github.com/Nick2bad4u/RedditCommentStreamRefresh/issues
+// @downloadURL  https://raw.githubusercontent.com/Nick2bad4u/RedditCommentStreamRefresh/main/Auto-Refresh-Reddit-Stream.js
+// @updateURL    https://raw.githubusercontent.com/Nick2bad4u/RedditCommentStreamRefresh/main/Auto-Refresh-Reddit-Stream.js
 // ==/UserScript==
 
 (function() {
