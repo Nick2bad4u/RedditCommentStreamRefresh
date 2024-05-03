@@ -6,6 +6,7 @@
 // @author       https://github.com/Nick2bad4u
 // @match        https://reddit-stream.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit-stream.com
+// @version      1.1
 // @grant        none
 // @downloadURL https://raw.githubusercontent.com/Nick2bad4u/RedditCommentStreamRefresh/main/Auto-Refresh-Reddit-Stream.js
 // @updateURL https://raw.githubusercontent.com/Nick2bad4u/RedditCommentStreamRefresh/main/Auto-Refresh-Reddit-Stream.js
