@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        30 Second Auto-Refresh Reddit-stream.com
-// @namespace    http://tampermonkey.net/
+// @name         Reddit-Stream Auto-Refresh 
+// @namespace    nick2bad4u
 // @description  Auto-Refreshes your Reddit-Stream.com page every 30 seconds. Modify the script and change to any time you want.
 // @author       https://github.com/Nick2bad4u
 // @match        https://reddit-stream.com/*
