@@ -11,5 +11,5 @@
 
 (function() {
     'use strict';
-    setTimeout(function(){ location.reload(); }, 30*1000);
+    setTimeout(function(){ location.reload(); }, 45*1000);
 })();
