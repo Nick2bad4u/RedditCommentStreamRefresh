@@ -1,0 +1,6 @@
+remote_theme: pages-themes/modernist@v0.2.0
+title: Reddit-Stream Refresher Script
+description: Auto-Refresh Reddit-Stream.com every 30 seconds UserScript
+url: "https://userscript.github.typpi.online" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
