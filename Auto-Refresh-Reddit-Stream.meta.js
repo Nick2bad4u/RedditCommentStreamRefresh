@@ -11,7 +11,7 @@
 // @homepageURL  https://github.com/Nick2bad4u/RedditCommentStreamRefresh
 // @supportURL   https://github.com/Nick2bad4u/RedditCommentStreamRefresh/issues
 // @downloadURL  https://raw.githubusercontent.com/Nick2bad4u/RedditCommentStreamRefresh/main/Auto-Refresh-Reddit-Stream.js
-// @updateURL    https://raw.githubusercontent.com/Nick2bad4u/RedditCommentStreamRefresh/main/Auto-Refresh-Reddit-Stream.js
+// @updateURL    https://raw.githubusercontent.com/Nick2bad4u/RedditCommentStreamRefresh/main/Auto-Refresh-Reddit-Stream.meta.js
 // @license CC-BY-SA-3.0; http://creativecommons.org/licenses/by-sa/3.0/
 // @license MIT
 // ==/UserScript==
