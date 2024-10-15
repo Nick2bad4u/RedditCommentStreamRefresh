@@ -1,6 +1,6 @@
 A quick userscript to refresh reddit-stream every 30 seconds.
 
-
+```userscript
     // ==UserScript==
     // @name         Reddit-Stream Auto-Refresh 
     // @namespace    nick2bad4u
@@ -25,3 +25,4 @@ A quick userscript to refresh reddit-stream every 30 seconds.
         location.reload();
       }, 30 * 1000);
     })();
+```
