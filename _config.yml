@@ -7,6 +7,10 @@ plugins:
   - kramdown
   - github-pages-health-check
   - jekyll-seo-tag
+  - jekyll-commonmark-ghpages
+  - jekyll-avatar
+  - jekyll-mentions
+  - jemoji
 kramdown:
   syntax_highlighter_opts:
     disable : true
