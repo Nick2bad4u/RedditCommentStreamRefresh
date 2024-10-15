@@ -5,5 +5,8 @@ url: "https://userscript.github.typpi.online" # the base hostname & protocol for
 plugins:
   - jekyll-sitemap
   - kramdown
-  - jekyll-github-metadata
   - github-pages-health-check
+  - jekyll-seo-tag
+kramdown:
+  syntax_highlighter_opts:
+    disable : true
